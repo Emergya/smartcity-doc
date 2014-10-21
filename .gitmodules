@@ -1,0 +1,8 @@
+[submodule "smartcity-distance-matrix"]
+	path = smartcity-distance-matrix
+	url = https://github.com/Emergya/smartcity-distance-matrix.git
+	branch = gh-pages
+[submodule "SMCMapViewer"]
+	path = SMCMapViewer
+	url = https://github.com/Emergya/SMCMapViewer.git
+	branch = gh-pages
